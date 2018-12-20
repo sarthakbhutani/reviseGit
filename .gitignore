@@ -1,2 +1,5 @@
+.gitignore
 ignoreFile1.txt
 #files ignored.
+#trying to ignore files, but not currently working.
+
